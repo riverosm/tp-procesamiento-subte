@@ -11,6 +11,12 @@
   Da la distribución porcentual de viajes por cada línea de subte, para días de semana (por defecto) o findes
   
 ``python3 subte_distribucion_lineas.py año <finde>``
+
+### subte_viajes_segun_lluvia.py
+
+  Da la cantidad de viajes de todas las líneas o de la línea elegida, en base a si llovió o no
+  
+``python3 subte_viajes_segun_lluvia.py año <finde> <linea>``
   
 # Molinetes subte
 
