@@ -17,6 +17,12 @@
   Da la cantidad de viajes de todas las líneas o de la línea elegida, en base a si llovió o no
   
 ``python3 subte_viajes_segun_lluvia.py año <finde> <linea>``
+
+### subte_viajes_segun_temperatura.py
+
+  Da la cantidad de viajes de todas las líneas o de la línea elegida, en base a la temperatura (frío, templado, calor)
+  
+``python3 subte_viajes_segun_temperatura.py año <finde> <linea>``
   
 # Molinetes subte
 
