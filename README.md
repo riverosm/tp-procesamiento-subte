@@ -18,8 +18,6 @@ http://cdn.buenosaires.gob.ar/datosabiertos/datasets/subte-viajes-molinetes/moli
 
 http://cdn.buenosaires.gob.ar/datosabiertos/datasets/subte-viajes-molinetes/molinetes-subte-18.zip
 
-http://cdn.buenosaires.gob.ar/datosabiertos/datasets/subte-viajes-molinetes/molinetes-2017.zip
-
 # Info del clima descargada de acá
 
 https://rp5.md/Archivo_de_tiempo_en_Buenos_Aires
