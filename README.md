@@ -5,6 +5,12 @@
   Da la cantidad de viajes por hora de todas las líneas o de la línea elegida, para determinado año y días de semana o fines de semana
 
 ``python3 subte_xhora.py año <finde> <linea>``
+
+### subte_distribucion_lineas.py
+
+  Da la distribución porcentual de viajes por cada línea de subte, para días de semana (por defecto) o findes
+  
+``python3 subte_distribucion_lineas.py año <finde>``
   
 # Molinetes subte
 
