@@ -1,3 +1,11 @@
+# Uso scripts
+
+### subte_xhora.py
+
+  Da la cantidad de viajes por hora de todas las líneas o de la línea elegida, para determinado año y días de semana o fines de semana
+
+``python3 subte_xhora.py año <finde> <linea>``
+  
 # Molinetes subte
 
 http://cdn.buenosaires.gob.ar/datosabiertos/datasets/subte-viajes-molinetes/molinetes-2019.zip
